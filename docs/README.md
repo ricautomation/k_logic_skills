@@ -1,62 +1,113 @@
 # Documentación de Infografías - Logic Skills
 
-Esta carpeta contiene prompts detallados para crear infografías visuales de cada skill en la librería de lógica.
+Esta carpeta contiene prompts detallados y **infografías finales** para visualizar cada skill en la librería de lógica.
+
+## 🖼️ Galería de Infografías
+
+### Vista Rápida
+
+| Skill | Infografía |
+|-------|-----------|
+| **K-Logic** | ![K-Logic](infografias/k-logic.png) |
+| **Ω_¬B** | ![Omega Anti-Sesgos](infografias/omaga-antisesgos.png) |
+| **Ψ_∇** | ![Psi Divergente](infografias/omaga-divergente.png) |
+| **FOLLOW-ME** | ![Follow-Me](infografias/follow-me.png) |
+
+---
 
 ## 📊 Infografías Disponibles
 
-### 1. [K-Logic Infographic](k-logic-infographic.md)
+### 1. [K-Logic Infographic](infografias/k-logic-infographic.md)
 **Tema**: Del caos conceptual al orden matemático
+
+![K-Logic Infographic](infografias/k-logic.png)
 
 - **Concepto**: Flujo de transformación de entrada verbosa a fórmulas precisas
 - **Layout**: Cascada de 4 fases (IDENTIFY → PURIFY → FORMALIZE → VERIFY)
 - **Elementos**: Dominios matemáticos, métricas de compresión, verificación de isomorfismo
-- **Paleta**: Azul (fases) → Dorado (salida)
+- **Paleta**: Azul (fases) → Dorado (salida) | Fondo: Azul muy claro (#F0F7FF)
 - **Tamaño recomendado**: 1200px × 800px
-- **Estilo**: Moderno, profesional, entrada=caos (rojo) → salida=orden (dorado)
+- **Estilo**: Moderno, profesional, entrada=caos (rojo) → salida=orden (dorado), fondo amigable
 
-**Archivo**: `k-logic-infographic.md` (70 líneas)
+**Archivos**: 
+- 📋 Prompt: `infografias/k-logic-infographic.md`
+- 🖼️ Infografía: `infografias/k-logic.png`
 
 ---
 
-### 2. [Ω_¬B (Omega Anti-Sesgos) Infographic](omega-antisesgos-infographic.md)
+### 2. [Ω_¬B (Omega Anti-Sesgos) Infographic](infografias/omega-antisesgos-infographic.md)
 **Tema**: La batalla entre el sesgo inicial y la objetividad
+
+![Omega Anti-Sesgos Infographic](infografias/omaga-antisesgos.png)
 
 - **Concepto**: 7 fases para desmantelar sesgos estructuralmente
 - **Layout**: Hexágono o espiral con el núcleo Ω_¬B en el centro
 - **Elementos**: Balanza de justicia, 7 fases (color degradado), sesgos neutralizados (+15)
-- **Paleta**: Rojo (sesgos) → Azul (análisis) → Verde (objetividad)
+- **Paleta**: Rojo (sesgos) → Azul (análisis) → Verde (objetividad) | Fondo: Gris muy claro (#F5F7FA)
 - **Tamaño recomendado**: 1400px × 1000px
-- **Estilo**: Defensivo, escudo contra sesgos, reducción visible de confianza (95% → 62%)
+- **Estilo**: Defensivo, escudo contra sesgos, reducción visible de confianza (95% → 62%), fondo neutral amigable
 
-**Archivo**: `omega-antisesgos-infographic.md` (72 líneas)
+**Archivos**:
+- 📋 Prompt: `infografias/omega-antisesgos-infographic.md`
+- 🖼️ Infografía: `infografias/omaga-antisesgos.png`
 
 ---
 
-### 3. [Ψ_∇ (Psi Divergente) Infographic](omega-divergente-infographic.md)
+### 3. [Ψ_∇ (Psi Divergente) Infographic](infografias/omega-divergente-infographic.md)
 **Tema**: Creatividad rigurosa anti-sesgada
+
+![Psi Divergente Infographic](infografias/omaga-divergente.png)
 
 - **Concepto**: Árbol de ideas que crece con simultáneamente un filtro anti-sesgos activo
 - **Layout**: Árbol bifurcado con 9 fases descendentes
 - **Elementos**: Árbol divergente, filtro paralelo, dominio de analogías, premortem
-- **Paleta**: Azul (núcleo formal) → Verde (ideas limpias) → Rojo (bloqueadas)
+- **Paleta**: Azul (núcleo formal) → Verde (ideas limpias) → Rojo (bloqueadas) | Fondo: Blanco crema (#FEFDFB)
 - **Tamaño recomendado**: 1600px × 1200px
-- **Estilo**: Orgánico pero riguroso, restricciones asumidas vs reales, 3 ideas finales
+- **Estilo**: Orgánico pero riguroso, restricciones asumidas vs reales, 3 ideas finales, fondo cálido
 
-**Archivo**: `omega-divergente-infographic.md` (75 líneas)
+**Archivos**:
+- 📋 Prompt: `infografias/omega-divergente-infographic.md`
+- 🖼️ Infografía: `infografias/omaga-divergente.png`
 
 ---
 
-### 4. [FOLLOW-ME Infographic](follow-me-infographic.md)
+### 4. [FOLLOW-ME Infographic](infografias/follow-me-infographic.md)
 **Tema**: Ejecución garantizada paso a paso
+
+![FOLLOW-ME Infographic](infografias/follow-me.png)
 
 - **Concepto**: Tren que avanza por rieles sin desvíos, acumulando contexto
 - **Layout**: Ferrocarril vertical con 4 fases (PARSE → ANNOUNCE → EXECUTE → COMPLETION)
 - **Elementos**: Rieles, vagones acumulativos, barra de progreso, invariantes visuales
-- **Paleta**: Gris acero (rieles) → Azul (pasos) → Verde (progreso) → Dorado (completado)
+- **Paleta**: Gris acero (rieles) → Azul (pasos) → Verde (progreso) → Dorado (completado) | Fondo: Azul pálido (#E8F4F8)
 - **Tamaño recomendado**: 1400px × 900px
-- **Estilo**: Industrial, garantía mecánica, sin saltos posibles
+- **Estilo**: Industrial, garantía mecánica, sin saltos posibles, fondo sereno
 
-**Archivo**: `follow-me-infographic.md` (72 líneas)
+**Archivos**:
+- 📋 Prompt: `infografias/follow-me-infographic.md`
+- 🖼️ Infografía: `infografias/follow-me.png`
+
+---
+
+## 📂 Estructura de Archivos
+
+```
+docs/
+├── README.md (este archivo)
+│
+└── infografias/
+    ├── k-logic-infographic.md
+    ├── k-logic.png
+    │
+    ├── omega-antisesgos-infographic.md
+    ├── omaga-antisesgos.png
+    │
+    ├── omega-divergente-infographic.md
+    ├── omaga-divergente.png
+    │
+    └── follow-me-infographic.md
+        └── follow-me.png
+```
 
 ---
 

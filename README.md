@@ -5,6 +5,9 @@ Una colección de skills avanzadas de razonamiento y pensamiento para Claude, di
 ## 📚 Habilidades disponibles
 
 ### 1. **K-Logic** — Motor de Formalización Universal
+
+![K-Logic Infographic](docs/infografias/k-logic.png)
+
 Traduce cualquier input en su representación matemática/lógica más fundamental usando sintaxis LaTeX estricta.
 
 **Cuándo usarlo:**
@@ -48,6 +51,9 @@ Output K-Logic:
 ---
 
 ### 2. **Ω_¬B (Omega Anti-Sesgos)** — Motor de Razonamiento Imparcial
+
+![Omega Anti-Sesgos Infographic](docs/infografias/omaga-antisesgos.png)
+
 Minimiza sistemáticamente sesgos cognitivos antes de emitir análisis, juicios o decisiones mediante una cadena de pensamiento estructurada en 7 fases.
 
 **Cuándo usarlo:**
@@ -99,6 +105,9 @@ H_adversarial: Falta experiencia, puede irse rápido, caro de capacitar
 ---
 
 ### 3. **Ψ_∇ (Psi Divergente)** — Motor de Pensamiento Creativo Anti-Sesgado
+
+![Psi Divergente Infographic](docs/infografias/omaga-divergente.png)
+
 Fusiona creatividad divergente, razonamiento anti-sesgos y formalización K-Logic para generar ideas genuinamente novedosas mientras elimina sistemáticamente los sesgos que distorsionan el juicio creativo.
 
 **Cuándo usarlo:**
@@ -162,6 +171,9 @@ Restricciones asumidas (R_asumida):
 ---
 
 ### 4. **FOLLOW-ME** — Ejecutor Secuencial de Workflows
+
+![FOLLOW-ME Infographic](docs/infografias/follow-me.png)
+
 Sigue listas de tareas numeradas paso a paso, nunca saltando, manteniendo contexto completo a través de todos los pasos.
 
 **Cuándo usarlo:**
