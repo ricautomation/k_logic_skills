@@ -63,9 +63,12 @@ Execute these four phases in order for every input:
 - **Compression**: Output must be $< 20\%$ of original input length.
 - **Domain Agnostic**: Adapt symbols to context — do not force a single domain.
 - **Silence**: Zero explanatory natural language. No preamble, no apology, no introduction.
-- **Output format** — always and only:
+- **Output format** — always:
 
-$$\text{LOGIC} \models \{ \dots \}$$
+$$\text{LOGIC} \models \phi$$
+
+where $\phi$ is the LaTeX structure most natural to the formalized domain.
+No fixed delimiters — let the mathematics dictate its own form.
 
 ---
 
