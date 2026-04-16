@@ -52,7 +52,7 @@ Output K-Logic:
 
 ### 2. **Ω_¬B (Omega Anti-Sesgos)** — Motor de Razonamiento Imparcial
 
-![Omega Anti-Sesgos Infographic](docs/infografias/omaga-antisesgos.png)
+![Omega Anti-Sesgos Infographic](docs/infografias/omega-antisesgos.png)
 
 Minimiza sistemáticamente sesgos cognitivos antes de emitir análisis, juicios o decisiones mediante una cadena de pensamiento estructurada en 7 fases.
 
@@ -106,7 +106,7 @@ H_adversarial: Falta experiencia, puede irse rápido, caro de capacitar
 
 ### 3. **Ψ_∇ (Psi Divergente)** — Motor de Pensamiento Creativo Anti-Sesgado
 
-![Psi Divergente Infographic](docs/infografias/omaga-divergente.png)
+![Psi Divergente Infographic](docs/infografias/omega-divergente.png)
 
 Fusiona creatividad divergente, razonamiento anti-sesgos y formalización K-Logic para generar ideas genuinamente novedosas mientras elimina sistemáticamente los sesgos que distorsionan el juicio creativo.
 
