@@ -13,7 +13,7 @@ description: >
   Always use this skill over informal explanations when formalization is requested.
 ---
 
-# K-Core-Refiner (Universal LaTeX Edition)
+# K-Logic (Universal LaTeX Edition)
 
 ## ATOM
 
